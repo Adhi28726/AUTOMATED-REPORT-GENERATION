@@ -21,5 +21,7 @@ Generating a Formatted PDF Report: Once the data has been processed and analyzed
 
 ![Image](https://github.com/user-attachments/assets/6bfd378b-d0b0-4180-a7c8-c6b8563c6114)
 
+![Image](https://github.com/user-attachments/assets/a1ab96b9-8f66-4b5f-b1f1-75e099b97768)
+
 
 
